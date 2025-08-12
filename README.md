@@ -1,17 +1,34 @@
-# Winx Fairy Sign Decision Support System
+# ✨ Winx Fairy Sign Decision Support System ✨
 
-This is a multi-page decision support system I created for my IPT HSC assignment in 2021. The system helps users discover their Winx fairy sign by selecting different options and navigating through pages.
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRveXdvcDVjbmF0ZzdraXJpdWVjaGd0NDBsOGgxa2hnaDhydDZqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v3ZZJ2VVhyIM2b7D0D/giphy.gif" width="275" align="right" />
 
-## How it works
-- Pure HTML and CSS-based navigation
-- Winx seasons available to watch using YouTube embeds
-- Background Winx music with a mute/unmute speaker button on the pages
-- Be sure to check out the About page!
+#### Ever wondered which **Winx fairy sign** you’d be? 🌟
+This magical multi-page decision support system guides you through a series of choices to reveal your fairy destiny!
 
-## What I learned
-- Building an interactive decision support system using only HTML/CSS
-- Embedding multimedia content like videos and audio in web pages
-- The challenges of page-based navigation (and ideas for improving it with divs or SPA techniques).
-- Concepts behind decision support systems from the IPT syllabus:
-  - Supporting decision-making in semi-structured scenarios
-  - Organising and processing user input for outcomes
+---
+
+### 💡 Features
+- **Choose your path** - Navigate through questions curated to guide you to your Winx sign
+- **Binge the magic** - [Watch Winx](https://trishachittaj.github.io/winx-fairy-sign/winx.html) via embedded YouTube episodes  
+- **Feel the vibes** - Background Winx music with a handy mute/unmute button  
+- **Learn the lore** - Discover more on the **[About](https://trishachittaj.github.io/winx-fairy-sign/about.html)** page!  
+
+---
+
+### 🧠 Behind the Magic
+This was my IPT HSC major project in 2021 - a chance to combine my love of Winx with web dev. Along the way, I learned:  
+- How to craft interactive multi-page systems using HTML & CSS  
+- Ways to embed videos and audio directly into webpages  
+- The pros & cons of page-based navigation (and how SPA-style design could make it smoother)  
+- How decision support systems help guide users in semi-structured scenarios  
+
+---
+
+🌈 **Try it yourself:**  
+🔗 [**Find your Winx fairy sign**](https://trishachittaj.github.io/winx-fairy-sign)  
+
+---
+
+> _"You’re magical, you’re powerful, you’re Winx."_ 💫
+
+![Winx Club GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ4OGpyeGs1MndoYXA0Zmk1eDR3Yng2OG1hODdpbm8yc2RtZG92ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bRM94HXCwqvB0Nq8ow/giphy.gif)
